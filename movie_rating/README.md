@@ -4,7 +4,7 @@ App Web to rating movies of differents cinema.
 
 ## Requirements
 - PHP >= 7.1 
-- MySQL 4.7
+- MySQL >= 5.7
 - Laravel 5.7
 ### Installation
 
